@@ -193,4 +193,5 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 files/*
+!files/README.md
 test.ipynb
