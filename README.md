@@ -80,7 +80,7 @@ pip install numpy torch scikit-learn joblib nltk pdfminer.six flask pytest matpl
 - `text_helper.py`: Functions to clean text, preprocess data, and convert PDFs to features.
 - `server.py`: Flask server to upload PDFs and predict categories.
 - `example.ipynb`: Jupyter notebook showing how to load data, train models, and test predictions.
-- `test_newsground.py`: Unit tests for key functions and models.
+- `test_script.py`: Unit tests for key functions and models.
 - `models/`: Folder to store trained models (created during training).
 - `files/`: Folder for uploaded PDFs (created during server use).
 - `pages/`: Folder with HTML templates for the Flask server (e.g., `download_page.html`).
