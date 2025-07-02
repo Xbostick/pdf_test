@@ -7,7 +7,7 @@ import pytest
 import numpy as np
 import torch
 from labels_newsground import labels_newsground
-from train import dl_data_preprocess, train, predict, Linear_model, CNN_model
+from dl_functions import dl_data_preprocess, train, predict, Linear_model, CNN_model
 from text_helper import clean_text, preprocess_corpus, tokenize_text_inference
 from server import allowed_file
 from pathlib import Path
