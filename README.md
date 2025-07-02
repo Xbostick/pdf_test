@@ -99,6 +99,6 @@ To train a CNN model and test it:
    ```
 
 ## Notes
-- Ready to use models storing [here](https://pages.github.com/)
+- Ready to use models storing [here](https://drive.google.com/drive/folders/1i7b5K3HG7mnU1mkbe5RDnqn9iTSvc9xR?usp=drive_link)
 - If tests fail due to missing models, train the models first using `example.ipynb`.
 - The Flask server uses the Linear model by default for predictions. Edit `server.py` to use a different model.
