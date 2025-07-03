@@ -34,8 +34,8 @@ pip install numpy torch scikit-learn joblib nltk pdfminer.six flask pytest matpl
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
-   cd <repository-name>
+   git clone https://github.com/Xbostick/pdf_test
+   cd pdf_test
    ```
 2. Install the required packages (see above).
 
